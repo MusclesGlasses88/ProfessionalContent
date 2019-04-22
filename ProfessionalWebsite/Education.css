@@ -1,0 +1,84 @@
+h1 {
+    color: darkblue;
+    font-family: times;
+    font-size: 40pt;
+    background-color: lightblue;
+    font-weight: 900;
+    text-align: center;
+}
+
+p{
+    font-size: 12pt;
+    color: white;
+    font-family: times;
+
+
+}
+
+h3 {
+
+    text-align: left;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    font-weight: 400;
+}
+
+
+h2{
+    font-size: 18pt;
+
+}
+
+g{
+    font-size: 16pt;
+}
+
+
+
+
+
+ul{
+    font-size: 10pt;
+}
+
+html{
+
+    background-color: darkblue;
+    color: white;
+
+}
+
+h1 p{
+    color: darkblue;
+}
+
+h4{
+    font-weight: 600;
+}
+
+
+
+
+
+
+.right{
+    width: 665px;
+    height: 420px;
+    float: right;
+
+}
+.left{
+    width: 665px;
+    height: 420px;
+    float: left;
+}
+
+.right img {
+    width: 100%;
+    height: auto;
+}
+
+.left img {
+    width: 100%;
+    height: auto;
+}
