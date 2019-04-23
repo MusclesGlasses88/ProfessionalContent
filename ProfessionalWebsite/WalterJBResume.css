@@ -5,6 +5,8 @@ h1 {
     background-color: lightblue;
     font-weight: 900;
     text-align: center;
+    border: 25px solid black;
+
 }
 
 p{
@@ -26,6 +28,7 @@ h3 {
 
 h2{
     font-size: 18pt;
+    text-transform: uppercase;
 
 }
 
@@ -81,8 +84,39 @@ img{
 
 }
 
+.principles:hover{
+    text-underline-position: below;
+    text-decoration: underline;
+
+}
 
 
 body{
     background-color: darkblue;
+    font: Times;
+}
+.box{
+    border: 5px solid yellow;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 20px;
+
+
+}
+
+.techie{
+    height: 300px;
+    width: 250px;
+    border: 5px solid yellow;
+    border-radius: 50%;
+    float: right;
+
+
+
+}
+.beepboop{
+
+    border: 5px solid yellow;
 }

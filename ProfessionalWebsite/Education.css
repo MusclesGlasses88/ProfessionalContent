@@ -5,12 +5,15 @@ h1 {
     background-color: lightblue;
     font-weight: 900;
     text-align: center;
+    
 }
 
 p{
     font-size: 12pt;
     color: white;
     font-family: times;
+
+
 
 
 }
@@ -21,11 +24,14 @@ h3 {
     justify-content: flex-start;
     flex-wrap: wrap;
     font-weight: 400;
+
+
 }
 
 
 h2{
     font-size: 18pt;
+
 
 }
 
@@ -65,15 +71,22 @@ h4{
 
 
 .right{
-    width: 650px;
+    width: 600px;
     height: 420px;
     float: right;
+    border: 5px solid yellow;
+    border-radius: 50%
+
+
 
 }
 .left{
-    width: 675px;
+    width: 600px;
     height: 420px;
     float: left;
+    border: 5px solid yellow;
+    border-radius: 50%
+
 }
 
 .right img {
@@ -84,10 +97,16 @@ h4{
 .left img {
     width: 100%;
     height: auto;
+
 }
 
 .schools:hover{
     color: yellow
 
 
+}
+
+.schools:hover{
+    text-underline-position: below;
+    text-decoration: underline;
 }
