@@ -38,12 +38,12 @@ g{
 
 
 ul{
-    font-size: 10pt;
+    font-size: 12pt;
 }
 
 html{
 
-    background-color: darkblue;
+
     color: white;
 
 }
@@ -75,4 +75,14 @@ img{
     color: darkblue;
     font-size: 12pt;
 
+}
+
+.principles:hover{ color: yellow
+
+}
+
+
+
+body{
+    background-color: darkblue;
 }
